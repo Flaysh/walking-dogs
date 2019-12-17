@@ -1,0 +1,7 @@
+
+html, body,code,#root, #app, #app>div {
+  height: 100%;
+  margin: auto;
+  font-family: 'Bebas Neue', cursive;
+}
+

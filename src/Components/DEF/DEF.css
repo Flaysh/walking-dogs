@@ -1,0 +1,21 @@
+.def{
+  position: relative;
+  height: 40%;
+}
+
+
+/* .hp h2 {
+  position: absolute;
+  left: 50%;
+  top: 80%;
+  transform: translate(-50%, -50%);
+  font-size: 60px;
+  margin: initial;
+}
+.hp h1{
+  position: absolute;
+  left: 50%;
+  top: 80px;
+  transform: translate(-50%, -50%);
+  font-size: 120px;
+} */

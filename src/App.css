@@ -1,0 +1,51 @@
+.App {
+  height: 100%;
+  background-image:url('./assets/MainPage/MainBackground.png') ;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  overflow:hidden;
+  text-align: center;
+  position: relative;
+}
+
+
+h2 {
+  position: absolute;
+  left: 50%;
+  top: 20%;
+  transform: translate(-50%, -50%);
+  font-size: 60px;
+  margin: 0;
+}
+
+h1{
+  position: absolute;
+  left: 50%;
+  top: 30%;
+  transform: translate(-50%, -50%);
+  font-size: 600%;
+}
+p{
+  position: absolute;
+  /* left: 50%;
+  top: 30%; */
+  transform: translate(-50%, -50%);
+}
+
+
+.node-enter {
+  opacity: 0;
+}
+.node-enter-active {
+  opacity: 1;
+  transition: opacity 2000ms;
+}
+.node-exit {
+  opacity: 1;
+}
+.node-exit-active {
+  opacity: 0;
+  transition: opacity 2000ms;
+}

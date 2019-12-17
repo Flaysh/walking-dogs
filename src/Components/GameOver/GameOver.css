@@ -1,0 +1,39 @@
+.gameover{
+    background-image:url('../../assets/GameOver/BG.png') ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    font-family: 'Heebo', sans-serif;
+
+    -webkit-animation: fade 2s; /* Safari, Chrome and Opera > 12.1 */
+    -moz-animation: fade 2s; /* Firefox < 16 */
+     -ms-animation: fade 2s; /* Internet Explorer */
+      -o-animation: fade 2s; /* Opera < 12.1 */
+         animation: fade 2s;
+}
+.panasenko{
+    top:65%;
+    font-size: 450%;
+}
+.gamur{
+    top: 65%;
+    font-size: 200%;
+
+}
+.button-nectar{
+    top:90%;
+    left: 80%;
+} 
+.button-death{
+    top:90%;
+    left: 20%;
+}
+.left{
+    top:80%;
+    left:20%;
+}
+.right{
+    top:78%;
+    left:80%;
+}

@@ -1,0 +1,15 @@
+.opening{
+    height: 100%;
+    background-image:url('../../assets/MainPage/OPENING.png') ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.start{
+    position: absolute;
+    left: 50%;
+    top: 54%;
+    transform: translate(-50%, -50%);
+    height: 200px;
+    width: 200px;
+}

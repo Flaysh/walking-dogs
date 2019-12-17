@@ -1,0 +1,17 @@
+.hp{
+    position: relative;
+    top:26%;
+  }
+
+.hp .button-minus{
+    margin-top:46%;   
+}
+.hp .button-plus{
+    margin-top:46%;
+}
+.hp h1{
+    margin-top: 26%;
+}
+.hp h2{
+    margin-top: 1%;
+}

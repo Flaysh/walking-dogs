@@ -1,0 +1,18 @@
+.button-minus , .button-death{
+    position: absolute;
+    left: 20%;
+    top: 86%;
+    transform: translate(-50%, -50%);
+    /* height: 25%; */
+}
+.button-plus , .button-nectar{
+    position: absolute;
+    left: 80%;
+    top: 86%;
+    /* height: 25%; */
+    transform: translate(-50%, -50%);
+}
+
+.button-plus:active, .button-minus:active , .button-nectar:active , .button-death:active{
+    opacity: 0.6;
+}

@@ -1,11 +1,17 @@
 Hello everyone!
-this project called Walking dogs.
-its designed and build for a card game at the same name.
-this app is a counter for HP and DEF score.
-as well there's some other options.
+
+This project called Walking dogs.
+Its designed and build for a card game at the same name.
+
+This app is a counter for HP and DEF score.
+There's some other options as well.
+
+ONLY FOR MOBILE!
+So press f12 and go for mobile mode if youre on computer.
 
 
-for trying the app you need to have node on your machine, and run: "NPM INSTALL"
+For trying the app you need to have node on your machine,
+and run: "NPM INSTALL".
 after that run "NPM START".
 
 or just use the link : https://walking-dogs.netlify.com/

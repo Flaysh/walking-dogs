@@ -32,13 +32,13 @@ https://walking-dogs.netlify.com/
 Clone the project
 
 ```bash
-  git clone https://github.com/Flaysh/Walking-Dogs-App
+  git clone https://github.com/Flaysh/walking-dogs
 ```
 
 Go to the project directory
 
 ```bash
-  cd walking-dogs-app
+  cd walking-dogs
 ```
 
 Install dependencies

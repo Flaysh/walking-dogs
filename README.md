@@ -17,7 +17,7 @@ after that run "NPM START".
 
 or just use the link : https://walking-dogs.netlify.com/
 
-Designed by Dog-Does.
+Designed by Dog-Does
 
 Build with React by Flaysh.
 
